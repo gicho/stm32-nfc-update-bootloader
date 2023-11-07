@@ -1,7 +1,7 @@
 # STM32 Bootloader for NFC Based Firmware Updates
 
 This bootloader is intended for embedded devices that support a firmware update over NFC.
-This is often useful for LPWAN devices which need an out-of-band capability to update the firmware.
+This is often useful for LPWAN devices which need an out-of-band capability to update the firmware..
 The currenclty supported hardware is the STM32L0 MCU and the ST25DV NFC chip.
 
 ## Features
